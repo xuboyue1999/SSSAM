@@ -1,0 +1,7 @@
+# SHA-256 commitments for private final artifacts; generic labels are used until disclosure.
+b63217db63262c5835c0601dc969846791d60a3efb9ea4388103935252fea0d1  private/model/core_model.py
+3edb1313769e93f6d21b943f2fa2517b494906f5b8c3cfde2a245d4adfda25db  private/model/mask_decoder.py
+19a9c318379ac3d2b6ae64c10dd02143364074ac29f05343ed79a4a417f8c0dd  private/training/train_rgbd.py
+78e67239fc40059a5135c6a9bb397f393ff50fc5601b4e0e8aa795ea1b871cb5  private/training/train_rgbt.py
+291d00cac90895c9aee7a7faefaf596b467bbffcdfb8a6c9bc9bd2596cf10422  private/checkpoints/rgbd_final.pth
+20ff39f6653a48fb8eb4d0b161c2dd0f56813eccefdd92b58dcf54cb1ef1f921  private/checkpoints/rgbt_final.pth

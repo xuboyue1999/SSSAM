@@ -1,0 +1,2 @@
+dataset,meanF,maxF,wF,MAE,Em,Sm,count,skipped
+RGB-NIR,0.92801,0.94116,0.92094,0.01954,0.96382,0.92984,780,0
